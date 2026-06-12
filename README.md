@@ -5,7 +5,7 @@
 - 🐍 Python Programmer
 - ⚡ Currently exploring Arduino & C/C++
 - 📂 I document my software & hardware journey here
-- 🐦 Connect with me on [X (formerly Twitter)](https://x.com)
+- 🐦 Connect with me on [X (formerly Twitter)](x.com/HighQ_Eng)
 
 ---
 
