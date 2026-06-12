@@ -1,11 +1,12 @@
 # Hi, I'm Opeyemi 👋
 
-- 🎓 1st Year Mechatronics Engineering student @ FUTA
+- 🎓 1st Year Mechatronics Student @ FUTA
 - 🤖 Aspiring Systems Engineer
 - 🐍 Python Programmer
-- ⚡ Currently exploring Arduino & C/C++
-- 📂 I document my software & hardware journey here
-- Connect with me on https://x.com/HighQ_Eng
+- ⚡ Exploring Arduino & C/C++
+- 📂 Documenting my tech journey here
+
+[![X](https://shields.io)](https://x.com/HighQ_Eng)
 
 ---
 
@@ -22,6 +23,4 @@ I write documentation with Systems Engineering principles in mind — clear requ
 defined inputs and outputs, explicit usage instructions and expected behaviour.
 Inspired by INCOSE standards. Building the habit early.
 
----
 
-- 🌐 Social media coming soon — stay tuned
