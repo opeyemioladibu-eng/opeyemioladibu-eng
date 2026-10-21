@@ -27,10 +27,3 @@
 - [CS50P](https://github.com/opeyemioladibu-eng/CS50P) — Solutions and learning notes from Harvard's CS50P Introduction to Programming with Python.
 - [GitHub Skills Learning](https://github.com/opeyemioladibu-eng/github-skills-learning) — My GitHub Skills coursework covering Git, GitHub, Copilot, Codespaces, CodeQL, Markdown, and repository security.
 
----
-
-## 📐 Documentation Philosophy
-
-I write documentation with Systems Engineering principles in mind — clear requirements,
-defined inputs and outputs, explicit usage instructions and expected behaviour.
-Inspired by INCOSE standards. Building the habit early.
