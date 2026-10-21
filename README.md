@@ -1,6 +1,6 @@
 # Hi, I'm Opeyemi 👋
 
-- 🎓 1st Year Mechatronics Engineering student @ FUTA  
+- Mechatronics Engineering student
 - 🤖 Aspiring Systems Engineer  
 - 🐍 Python Programmer  
 - ⚡ Currently exploring Arduino & C/C++  
