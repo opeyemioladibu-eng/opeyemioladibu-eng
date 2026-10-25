@@ -5,7 +5,7 @@
 - 🐍 Python Programmer  
 - ⚡ Currently exploring ESP32, embedded systems & C/C++  
 - 📂 I document my software & hardware journey here  
-- 🐦 Connect with me on [X](https://x.com/@HighQoyyum)
+- 🐦 Connect with me on [X](https://x.com/HighQoyyum)
 
 ---
 
