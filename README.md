@@ -23,10 +23,14 @@
 
 ## 📌 Featured Projects
 
+## 📌 Featured Projects
+
 * 🌱 **[SketchSeed](https://github.com/opeyemioladibu-eng/SketchSeed)** — A Python CLI tool that generates Arduino C++ starter sketches for ESP32 projects from JSON configurations. Includes GPIO validation, configuration checks, and automated tests with `pytest`.
+
+* * 📚 **[CS50P](https://github.com/opeyemioladibu-eng/CS50P)** — Problem set solutions and learning materials from Harvard's CS50P: Introduction to Programming with Python.
 
 * 🐍 **[Python Projects](https://github.com/opeyemioladibu-eng/Python-Projects)** — Python projects focused on programming fundamentals, problem-solving, and practical software development.
 
-* 📚 **[CS50P](https://github.com/opeyemioladibu-eng/CS50P)** — Problem set solutions and learning materials from Harvard's CS50P: Introduction to Programming with Python.
+* * ⚡ **[Embedded Systems Projects](https://github.com/opeyemioladibu-eng/embedded-systems-projects)** — Projects and experiments exploring microcontrollers, embedded C/C++, electronics, and automation.
 
 * 🛠️ **[GitHub Skills Learning](https://github.com/opeyemioladibu-eng/github-skills-learning)** — Hands-on coursework covering Git, GitHub, Markdown, Codespaces, Copilot, CodeQL, and repository security.
